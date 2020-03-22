@@ -1,2 +1,2 @@
-# Kaggle
-This repository contains notebooks for some Kaggle competitions.
+# Competitions
+This repository contains notebooks for some data science competitions.
